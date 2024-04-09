@@ -63,7 +63,10 @@ MIT License - The License file is provided here : (./LICENSE)
 
 ## Screenshots
 
-
+![text](Assets/images/Homepage.png) 
+![text](Assets/images/login-signup.png) 
+![text](Assets/images/post.png) 
+![text](Assets/images/comment.png)
 
 ## Heroku Link and Github Link
 
